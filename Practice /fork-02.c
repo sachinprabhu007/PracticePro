@@ -35,3 +35,9 @@ void ParentProcess()
 		printf("This line is from parent,value = %d\n",i);
 	printf("****Parent is done****\n");
 }
+
+/*
+
+http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html
+
+*/

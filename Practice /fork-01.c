@@ -20,3 +20,9 @@ void main()
 		write(1,buf,strlen(buf));
 	}	
 }
+
+/*
+
+http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html
+
+*/
